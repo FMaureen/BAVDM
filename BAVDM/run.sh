@@ -13,7 +13,7 @@ nohup python main.py  --algorithm BAVDM    \
                       --train_recl_freq 100 \
                       --use_ln False \
                       --role_tau 0.005  \
-                      --cluster_num 3   \
+                      --cluster_num 4   \
                       --agent_embedding_dim 128 \
                       --hyper_layers_num 2      \
                       --lr +6e-4                \
